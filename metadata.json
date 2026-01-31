@@ -1,0 +1,5 @@
+{
+  "name": "N-Cryptor!",
+  "description": "A professional-grade encryption and decryption tool utilizing custom symbol mapping and Gemini AI to generate and analyze secret communications.",
+  "requestFramePermissions": []
+}
